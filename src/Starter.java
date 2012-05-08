@@ -1,4 +1,3 @@
-
 public class Starter {
 
 	/**
@@ -8,6 +7,7 @@ public class Starter {
 		// TODO Auto-generated method stub
 
 		System.out.println("hallo22500");
+		System.out.println("t");
 	}
 
 }
